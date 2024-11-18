@@ -14,4 +14,8 @@
 This formula was applied to other cells in the datasheet.
 
 Some dates in a dataset are not properly arranged most times, so the next step is to change the dates to "short date format".
-[Date format]()
+[Date format](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/Date%20before.jpg)
+
+[Cleaned Date](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/date%20after.jpg)
+
+

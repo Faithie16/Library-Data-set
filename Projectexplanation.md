@@ -13,5 +13,5 @@
 [Capitalized texts](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/DATA%20CLEANING.jpg).
 This formula was applied to other cells in the datasheet.
 
-The next step is to change the dates to "short
- date
+Some dates in a dataset are not properly arranged most times, so the next step is to change the dates to "short date format".
+[Date format]()

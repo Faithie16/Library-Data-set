@@ -51,7 +51,7 @@ This is what a slicer looks like.
 #### This is what the outcome of our project looks like now.
 ![Final dashboard](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/Finished%20dashboard.jpg)
 
-This is a summary on how to Visualize data on Excel dashboard
+#### This is a summary on how to Visualize data on Excel dashboard.
 
 ![Thank you](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/thanks.png)
 

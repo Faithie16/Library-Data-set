@@ -17,8 +17,9 @@
 
 ![Cleaned Date](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/date%20after.jpg)
 #### The cells are then expanded to look like this.
-![Expanded cells](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/after%20expansion.jpg
+![Expanded cells](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/after%20expansion.jpg)
 
-)
+
+
 
 

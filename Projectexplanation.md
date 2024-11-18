@@ -53,4 +53,4 @@ This is what a slicer looks like.
 
 This is a summary on how to Visualize data on Excel dashboard
 
-![Thank you](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/thank%20you.jpg)
+![Thank you](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/thanks.png)

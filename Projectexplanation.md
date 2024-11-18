@@ -45,3 +45,11 @@ I checked only the boxes that corresponds with the data which I pulled out from 
 
 This is what a slicer looks like.
 ![Slicer](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/slicer%20inserted.jpg)
+
+#### The four slicers created a then connected together by selecting all pivot table created for each slicers. Once the slicers are connected, they all function together.
+
+#### This is what the outcome of our project looks like now.
+![Final dashboard](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/Finished%20dashboard.jpg)
+
+This is a summary on how to create an Excel dashboard
+THANK YOU.

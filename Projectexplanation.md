@@ -10,7 +10,7 @@
 #### I selected a few of the columns to capitalize it's texts using the formula =UPPER(Text) as shown in the image below.
 ![Capitalize texts](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/2%20-%20TO%20CAPITALIZE%20TEXTS.jpg)
 #### This is the outcome.
-[Capitalized texts](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/DATA%20CLEANING.jpg).
+[Capitalized texts](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/DATA%20CLEANING.jpg)
 This formula was applied to other cells in the datasheet.
 
 Some dates in a dataset are not properly arranged most times, so the next step is to change the dates to "short date format".

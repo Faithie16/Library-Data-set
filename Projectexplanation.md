@@ -25,5 +25,8 @@
 ![Find and replace](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/FIND%20AND%20REPLACE%20TO%20TAKE%20OUT%20UNWANTED%20DATA.jpg)
 
 #### The dataset is then given a much colorful look by highlighting the whole data, click on the insert icon, select table, check all the boxes provided then select your preferred table design, and we're done with the cleanup.
+![Final look](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/data%20cleaned.jpg)
 
+
+### 
 #### The 

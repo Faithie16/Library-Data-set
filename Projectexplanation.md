@@ -1,5 +1,7 @@
 # LIBRARY DATA SET
 
+### <u> Data Cleaning <u/>
+
 #### This project is a Data Management application that helps users organize and prioritize data using Charts, Pivot tables, slicers to create an all in one dashboard in Excel.
 
 ![Library Dataset Dashboard](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/dashboard%20.jpg)

@@ -19,7 +19,9 @@
 #### The cells are then expanded to look like this.
 ![Expanded cells](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/after%20expansion.jpg)
 
+#### There was still some unwanted date in the birth-date column, I used "Find and Replace" to edit the affected columns.
+![Find and replace](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/FIND%20AND%20REPLACE%20TO%20TAKE%20OUT%20UNWANTED%20DATA.jpg)
 
+#### The dataset is then given a much colorful look by highlighting the whole data, click on the insert icon, select table, check all the boxes provided then select your preferred table design, and we're done with the cleanup.
 
-
-
+#### The 

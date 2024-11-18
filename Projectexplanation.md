@@ -39,8 +39,9 @@ This step was done for four different data sets. More data sets can be gotten fr
 ### Dashboard Preparation
 #### I created another worksheet, highlighted a particular amount of cell and added my preferred color. I highlighted about 4-5 rows in the colored cells and merged them together to insert text on a straight line. Then I created a "Logo" using shapes.
 #### The created charts were copied one after another and pasted on the new dashboard worksheet and carefully arranged in order.
-#### I proceeded to create slicers for the four data sets created.
+#### I proceeded to create slicers for the four datasets / charts created on the dashboard sheet.
 ![Insert slicers](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/Slicers.jpg)
 I checked only the boxes that corresponds with the data which I pulled out from the original dataset. 
 
-####
+This is what a slicer looks like.
+![Slicer](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/slicer%20inserted.jpg)

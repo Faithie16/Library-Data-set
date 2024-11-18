@@ -28,7 +28,7 @@
 ![Final look](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/data%20cleaned.jpg)
 
 
-### Data Visualization
+## Data Visualization
 
 #### The next step in this project is to visualize the data set provided.
 #### Data visualization is the graphical representation of data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand patterns in data.
@@ -36,7 +36,7 @@
 ![Pivot table and chart](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/Pivot%20table.jpg)
 This step was done for four different data sets. More data sets can be gotten from the original file, it all depends on what you're working on.
 
-## Dashboard Preparation
+### Dashboard Preparation
 #### I created another worksheet, highlighted a particular amount of cell and added my preferred color. I highlighted about 4-5 rows in the colored cells and merged them together to insert text on a straight line. Then I created a "Logo" using shapes.
 #### The created charts were copied one after another and pasted on the new dashboard worksheet and carefully arranged in order.
 #### I proceeded to create slicers for the four data sets created.

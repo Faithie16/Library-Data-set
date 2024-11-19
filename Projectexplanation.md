@@ -28,7 +28,7 @@
 ![Final look](https://github.com/Faithie16/Library-Data-set/blob/main/Imgs/data%20cleaned.jpg)
 
 
-## Data Visualization
+### Data Visualization
 
 #### The next step in this project is to visualize the data set provided.
 #### Data visualization is the graphical representation of data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand patterns in data.
